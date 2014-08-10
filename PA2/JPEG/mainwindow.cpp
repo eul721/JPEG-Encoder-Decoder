@@ -4,15 +4,11 @@
 
 
 #include "mainwindow.h"
-#include "ui_mainwindow.h"
+#include "GeneratedFiles\ui_mainwindow.h"
 #include "EncoderDecoder.h"
-#include <QTcore>
-#include <QtGui>
-#include <qfiledialog.h>
-#include <QTimer>
-#include <QObject>
-#include <QMessageBox>
-#include <QSize>
+#include <QtWidgets\qfiledialog.h>
+#include <QtWidgets\qmessagebox.h>
+
 
 #include <iostream>
 #include <math.h>
